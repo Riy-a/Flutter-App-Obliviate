@@ -96,7 +96,7 @@ https://user-images.githubusercontent.com/91636803/148514454-ad33acf1-25a9-41e1-
 
 **_3) Clone the repository._**
 
-        -git clone https://github.com/shamvi-05/Obliviate.git
+        -git clone https://github.com/Riy-a/Flutter-App-Obliviate.git
 
 **_4) Open in Android studio using git version control._**
 
