@@ -119,12 +119,7 @@ https://user-images.githubusercontent.com/91636803/148514454-ad33acf1-25a9-41e1-
 
 
 
-### Team-Duck Debuggers 🐤
- [**AIN FATIMA**](https://github.com/clary09)
 
-[**RIYA SINGH**](https://github.com/Riy-a)
-
-[**SHAMBHAVI SINGH**](https://github.com/shamvi-05)
 
 
 
